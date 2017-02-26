@@ -404,26 +404,30 @@ hr {
 <<<<<<< HEAD
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+    background: #000000;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background: #111111;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
-    background: #f2b179; }
+    background: #222222; }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-    background: #f59563; }
+    background: #333333; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
-    background: #f67c5f; }
+    background: #444444; }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: #f65e3b; }
+    background: #555555; }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
+<<<<<<< HEAD
     background: #edcf72;
+=======
+    background: #666666;
+>>>>>>> 2048-class/B&W
 =======
     font-family: 'Source Code Pro', Courier;
     font-size: 16px; 
@@ -479,7 +483,11 @@ hr {
   .tile.tile-256 .tile-inner {
 <<<<<<< HEAD
     color: #f9f6f2;
+<<<<<<< HEAD
     background: #edcc61;
+=======
+    background: #777777;
+>>>>>>> 2048-class/B&W
 =======
     background: url('../tile-sets/udacity/256.png');
     background-size: 100%;
@@ -493,7 +501,11 @@ hr {
   .tile.tile-512 .tile-inner {
 <<<<<<< HEAD
     color: #f9f6f2;
+<<<<<<< HEAD
     background: #edc850;
+=======
+    background: #888888;
+>>>>>>> 2048-class/B&W
 =======
     background: url('../tile-sets/udacity/512.png');
     background-size: 100%;
@@ -507,7 +519,11 @@ hr {
   .tile.tile-1024 .tile-inner {
 <<<<<<< HEAD
     color: #f9f6f2;
+<<<<<<< HEAD
     background: #edc53f;
+=======
+    background: #999999;
+>>>>>>> 2048-class/B&W
 =======
     background: url('../tile-sets/udacity/1024.png');
     background-size: 100%;
@@ -521,7 +537,11 @@ hr {
   .tile.tile-2048 .tile-inner {
 <<<<<<< HEAD
     color: #f9f6f2;
+<<<<<<< HEAD
     background: #edc22e;
+=======
+    background: #AAAAAA;
+>>>>>>> 2048-class/B&W
 =======
     background: url('../tile-sets/udacity/2048.png');
     background-size: 100%;
